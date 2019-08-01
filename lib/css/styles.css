@@ -1,1 +1,111 @@
 /* This is going to be used for any modified/custom styling */
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    text-decoration: none;
+    font-family: 'Alegreya Sans', sans-serif;
+    font-size: 12px;
+  }
+
+
+
+@media (min-width: 800px) {
+    .navbar-toggler-icon {
+        display: block;
+    }
+}
+
+#title {
+    color: aqua;
+}
+
+.row, .col, .card {
+    margin-top: 20px;
+}
+
+/* .navbar {
+    background-color: rgba(21, 31, 33, 0.5);
+    border-bottom: 1px solid #dedede;
+    font-family: 'Alegreya Sans', sans-serif;
+}
+
+.nav-link {
+    color: #d1d1d1;
+}
+
+.nav-link:hover {
+    color: #fff;
+}
+
+.navbar-toggler-icon {
+    color: #fff;
+    display: none;
+} */
+
+main {
+    margin-top: 2rem;
+}
+
+
+
+/* .card {
+    width: 18rem;
+    padding: 1rem;
+    align-content: center;
+} */
+
+/* .card img {
+    max-height: 12rem;
+    width: 100%;
+} */
+
+/* .card-text {
+    max-width: 18rem;
+} */
+
+
+/* FOOTER */
+
+footer  {
+    width: 100%;
+    background-color: #222;
+    padding: 60px 0px;
+    margin-top: 10px;
+  }
+  
+  footer a {
+    color: white;
+  }
+  
+  footer ul li a:hover {
+    background-color: skyblue;
+  }
+  
+  .copyright {
+    color: white;
+  }
+  
+  .footerlogo {
+    width: 100px;
+    height: 100px;
+  }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
